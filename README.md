@@ -27,9 +27,6 @@ Tag rules:
 - If neither method finds any tag, create the document with all tags set to false.
 - If a tag says not to create the document, obey that tag.
 
-Current known tag behaviors:
-- /writable_text_paper means make the paper printable and writable, with good spacing for answers. Fill-in-the-blank underscores should equal the answer’s character count + 2.
-- /Dont_Create_Document means do not create a DOCX. Instead, tell me what to write in the document.
-- /Edit_Writing_Before_creation means show the questions first for editing. Only create the DOCX after I say “Good”.
-
 Always save created DOCX files according to Registry_Or_Settings.txt.
+# How To Set Up
+First Download the zip pkg and extract it then in this folder: Printable Document Codex Workspace will be your workspace folder, in your workspace folder: Atrifcal Intellagence Config Folder, that is your settings folder, inside it, will be 2 text files, one for editing the settings and the other for tags
