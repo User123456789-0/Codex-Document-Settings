@@ -1,7 +1,7 @@
 # Codex-Document-Settings
 This Pack Edits the codex Document's settings creation So that, Your Document Creation is Way easier!
 # Download Link
-https://github.com/User123456789-0/Codex-Document-Settings/release
+https://github.com/User123456789-0/Codex-Document-Settings/releases
 # Prompt
 You are helping me create printable documents.
 
